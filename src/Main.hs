@@ -3,8 +3,8 @@
 {-# LANGUAGE DeriveGeneric      #-}
 {-# LANGUAGE OverloadedStrings  #-}
 {-# LANGUAGE TypeOperators      #-}
-{-# LANGUAGE FlexibleInstances  #-}  -- One more extension.
-{-# LANGUAGE StandaloneDeriving #-}  -- To derive Show
+{-# LANGUAGE FlexibleInstances  #-}
+{-# LANGUAGE StandaloneDeriving #-}
 
 import           Control.Monad
 import           Data.List
